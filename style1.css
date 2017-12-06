@@ -1,0 +1,59 @@
+html {
+    margin: 70px 70px 150px; 
+	padding-top: 0px; 
+	padding-bottom: 0px; 
+	border-width: 10px;
+	background-color: darkturquoise;
+}
+
+body{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+	
+}
+
+#titleImg {
+	margin-left: 270px;
+}
+
+div#movie_poster {
+	float: left;
+	
+}
+   
+ 
+button {
+	color: dimgray; 
+	margin-top: 70px; 
+	margin-bottom: 70px;
+	margin-left: 420px; 
+	width: 310px; 
+	height: 60px;
+	border-radius: 15px;
+	font-size: 20px;
+	font-family: Impact, Charcoal, sans-serif;
+	text-align: center;
+}
+
+
+
+div#description{
+	width:500px; 680px;
+	float:right;
+}
+
+
+/*
+
+.container {
+	display: table-cell; 
+	position: relative; 
+	border: 3px gray; 
+	text-align: center;
+	 border-radius: 25px;
+    border: 2px solid gray;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+
+}*/
